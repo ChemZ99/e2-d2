@@ -474,12 +474,14 @@ a i {
 @media screen and (min-width: 700px) {
   .position1 {
     bottom: auto;
-    top: 110px;
+    top: 30px;
+    z-index: 4;
   }
 
   .position2 {
     bottom: auto;
-    top: 180px;
+    top: 100px;
+    z-index: 4;
   }
 }
 
